@@ -1,4 +1,4 @@
-pytest==2.6.4
-pytest-django==2.8.0
-pytest-cov==1.6
-cryptography==2.0.3
+pytest==7.1.2
+pytest-django==4.5.2
+pytest-cov==3.0.0
+cryptography==37.0.1
